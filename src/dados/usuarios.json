@@ -1,0 +1,14 @@
+[
+    {
+        "id": "6aadd23f-d432-419e-985f-be5e8c08e187",
+        "nome": "José Messias Junior",
+        "email": "jose.messias@cubos.academy",
+        "senha": "jose123"
+    },
+    {
+        "id": "dfbc203e-97df-4bce-b784-89a2a4352178",
+        "nome": "Bárbara",
+        "email": "barbara@cubos.academy",
+        "senha": "barbara123"
+    }
+]
